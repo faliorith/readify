@@ -1,0 +1,12 @@
+{
+  "appName": "Readify",
+  "loginTitle": "Қайта келгеніңізге қош келдіңіз",
+  "emailHint": "Электрондық пошта",
+  "passwordHint": "Құпия сөз",
+  "loginButton": "Кіру",
+  "registerButton": "Тіркелу",
+  "homeTab": "Басты бет",
+  "searchTab": "Іздеу",
+  "libraryTab": "Кітапхана",
+  "profileTab": "Профиль"
+} 

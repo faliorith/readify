@@ -1,0 +1,12 @@
+{
+  "appName": "Readify",
+  "loginTitle": "С возвращением",
+  "emailHint": "Электронная почта",
+  "passwordHint": "Пароль",
+  "loginButton": "Войти",
+  "registerButton": "Регистрация",
+  "homeTab": "Главная",
+  "searchTab": "Поиск",
+  "libraryTab": "Библиотека",
+  "profileTab": "Профиль"
+} 

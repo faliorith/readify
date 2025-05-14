@@ -1,0 +1,42 @@
+{
+  "appName": "Readify",
+  "@appName": {
+    "description": "The name of the application"
+  },
+  "loginTitle": "Welcome Back",
+  "@loginTitle": {
+    "description": "Title shown on the login screen"
+  },
+  "emailHint": "Email",
+  "@emailHint": {
+    "description": "Hint text for email input field"
+  },
+  "passwordHint": "Password",
+  "@passwordHint": {
+    "description": "Hint text for password input field"
+  },
+  "loginButton": "Login",
+  "@loginButton": {
+    "description": "Text for the login button"
+  },
+  "registerButton": "Register",
+  "@registerButton": {
+    "description": "Text for the register button"
+  },
+  "homeTab": "Home",
+  "@homeTab": {
+    "description": "Text for the home tab"
+  },
+  "searchTab": "Search",
+  "@searchTab": {
+    "description": "Text for the search tab"
+  },
+  "libraryTab": "Library",
+  "@libraryTab": {
+    "description": "Text for the library tab"
+  },
+  "profileTab": "Profile",
+  "@profileTab": {
+    "description": "Text for the profile tab"
+  }
+} 
